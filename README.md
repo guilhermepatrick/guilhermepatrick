@@ -9,7 +9,7 @@ Sou um apaixonado pela tecnologia e por todas as excelentes coisas que ela é ca
 ```kotlin
 object **Guilherme Patrick* {
  val name = "Guilherme Patrick Santos Alves"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+ val acknowledgements = "FrontEnd Junior / FullStack (em formação)"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "HTML", "CSS", "React" , "Liderança", "Comunicação") 

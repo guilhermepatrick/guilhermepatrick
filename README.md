@@ -11,8 +11,8 @@ object **Guilherme Patrick* {
  val name = "Guilherme Patrick Santos Alves"
  val acknowledgements = "FrontEnd Junior / FullStack (em formação)"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "HTML", "CSS", "React" , "Liderança", "Comunicação") 
+ val primarySkillset = "Liderança","Comunicação" 
+ val languages = listOf("JavaScript", "HTML", "CSS", "React") 
 }
 ```
 

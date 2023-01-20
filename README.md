@@ -12,7 +12,8 @@ object **Guilherme Patrick* {
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "HTML", "CSS", "React" ,"Git" ,"Liderança", "Comunicação") 
+ val languages = listOf("JavaScript", "HTML", "CSS", "React" ,"Git",
+ "Liderança", "Comunicação") 
 }
 ```
 
@@ -30,25 +31,25 @@ object **Guilherme Patrick* {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepatrick&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Guilherme Patrick github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepatrick&show_icons=true&theme=dracula&line_height=27" alt="Guilherme Patrick github stats"/>
 </a>
 
-[website]: https://codedev.ga/
+<!-- [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/ -->
+[instagram]: https://www.instagram.com/stronguizao/
+[linkedin]: https://www.linkedin.com/in/guilherme-patrick/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+<!-- 🏡 [website][website] **|**  -->
+<!-- 🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|**  -->
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 

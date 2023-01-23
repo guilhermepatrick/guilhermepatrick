@@ -12,7 +12,8 @@ object **Guilherme Patrick* {
  val acknowledgements = "FrontEnd Junior / FullStack (em formação)"
  
  val primarySkillset = "Liderança","Comunicação" 
- val languages = listOf("JavaScript", "HTML", "CSS", "React") 
+ val languages = listOf("JavaScript", "HTML", "CSS", "React")
+ 
 }
 ```
 

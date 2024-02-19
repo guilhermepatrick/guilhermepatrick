@@ -1,6 +1,6 @@
 ### Olá Mundo !  👋
 
-Sou um apaixonado pela tecnologia e por todas as excelentes coisas que ela é capaz de fazer, atualmente sou estudante fullstack (com uma pequena tendência ao frontend) pela Trybe ! 
+Sou um apaixonado pela tecnologia e por todas as excelentes coisas que ela é capaz de fazer, atualmente sou formado no curso de desenvolvimento Web da Trybe e estudante no curso Análise e Desenvolvimento de Sistemas pela PUC ! 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -9,24 +9,13 @@ Sou um apaixonado pela tecnologia e por todas as excelentes coisas que ela é ca
 ```kotlin
 object **Guilherme Patrick* {
  val name = "Guilherme Patrick Santos Alves"
- val acknowledgements = "FrontEnd Junior / FullStack (em formação)"
+ val acknowledgements = "Full Stack Júnior"
  
  val primarySkillset = "Liderança","Comunicação" 
- val languages = listOf("JavaScript", "HTML", "CSS", "React")
+ val languages = listOf("JavaScript", "HTML", "CSS", "React", "Phyton", "C#")
  
 }
 ```
-
-## **Linguagens e Ferramentas:** 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
 <!-- 
 ## **GitHub Estatísticas**
 
@@ -41,7 +30,6 @@ object **Guilherme Patrick* {
 <!-- [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/ -->
-[instagram]: https://www.instagram.com/stronguizao/
 [linkedin]: https://www.linkedin.com/in/guilherme-patrick/
 <br> -->
 
@@ -50,6 +38,5 @@ object **Guilherme Patrick* {
 <!-- 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|**  -->
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 

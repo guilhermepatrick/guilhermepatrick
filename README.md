@@ -18,3 +18,12 @@ object GuilhermePatrick {
     val primarySkillset = listOf("Liderança", "Comunicação", "Análise de Dados", "Desenvolvimento Web")
     val languages = listOf("JavaScript", "HTML", "CSS", "React", "Python", "C#", "SQL")
 }
+
+🚀 Tecnologias que mais uso:
+Frontend: React, HTML, CSS, JavaScript, React Native
+
+Backend: Node.js, C#, APIs REST
+
+Dados: Power BI, SQL Server, Python (Pandas)
+
+Outros: Electron.js, OBS Studio, Git, Figma
